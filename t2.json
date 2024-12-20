@@ -1,0 +1,5850 @@
+{
+    "TPR_TD_5_1_1_Magnet_presence_check": {
+        "TC_id": "TD_5_1",
+        "Testcase_Name": "TD_5_1_1_Magnet_presence_check",
+        "TC_Chapter": "Mechanical tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_5_2_1_Thermal_Performance_of_5W": {
+        "TC_id": "TD_5_2",
+        "Testcase_Name": "TD_5_2_1_Thermal_Performance_of_5W",
+        "TC_Chapter": "Thermal tests",
+        "Pos_applicable": [
+            "TPR_THERMAL_5W"
+        ]
+    },
+    "TPR_TD_5_2_2_Thermal_Performance_of_15W": {
+        "TC_id": "TD_5_2",
+        "Testcase_Name": "TD_5_2_2_Thermal_Performance_of_15W",
+        "TC_Chapter": "Thermal tests",
+        "Pos_applicable": [
+            "TPR_THERMAL_15W"
+        ]
+    },
+    "TPR_TD_6_1_1_Test_3a_Power_Signal_Characteristics": {
+        "TC_id": "TD_6_1",
+        "Testcase_Name": "TD_6_1_1_Test_3a_Power_Signal_Characteristics",
+        "TC_Chapter": "Disconnected Load tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_6_1_1_Test_3b_Power_Signal_Characteristics": {
+        "TC_id": "TD_6_1",
+        "Testcase_Name": "TD_6_1_1_Test_3b_Power_Signal_Characteristics",
+        "TC_Chapter": "Disconnected Load tests",
+        "Pos_applicable": [
+            "TPR_1B"
+        ]
+    },
+    "TPR_TD_6_1_1_Test_3c_Power_Signal_Characteristics": {
+        "TC_id": "TD_6_1",
+        "Testcase_Name": "TD_6_1_1_Test_3c_Power_Signal_Characteristics",
+        "TC_Chapter": "Disconnected Load tests",
+        "Pos_applicable": [
+            "TPR_1C"
+        ]
+    },
+    "TPR_TD_6_1_1_Test_3d_Power_Signal_Characteristics": {
+        "TC_id": "TD_6_1",
+        "Testcase_Name": "TD_6_1_1_Test_3d_Power_Signal_Characteristics",
+        "TC_Chapter": "Disconnected Load tests",
+        "Pos_applicable": [
+            "TPR_1D"
+        ]
+    },
+    "TPR_TD_6_1_2_Signal_Strength": {
+        "TC_id": "TD_6_1",
+        "Testcase_Name": "TD_6_1_2_Signal_Strength",
+        "TC_Chapter": "Disconnected Load tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_6_1_3_Signal_Strength": {
+        "TC_id": "TD_6_1",
+        "Testcase_Name": "TD_6_1_3_Signal_Strength",
+        "TC_Chapter": "Disconnected Load tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_6_1_4_Signal_Strength": {
+        "TC_id": "TD_6_1",
+        "Testcase_Name": "TD_6_1_4_Signal_Strength",
+        "TC_Chapter": "Disconnected Load tests",
+        "Pos_applicable": [
+            "TPR_MP1A"
+        ]
+    },
+    "TPR_TD_6_2_1_Selection_Phase": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_1_Selection_Phase",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_6_2_2_Power_Control": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_2_Power_Control",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1B"
+        ]
+    },
+    "TPR_TD_6_2_3_Power_Control": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_3_Power_Control",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1B"
+        ]
+    },
+    "TPR_TD_6_2_4_Power_Control": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_4_Power_Control",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1B"
+        ]
+    },
+    "TPR_TD_6_2_5_MP_TX_SYSCTRL_POWXFER_LDSTP_TC2_Power_Control": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_5_MP_TX_SYSCTRL_POWXFER_LDSTP_TC2_Power_Control",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_6_2_6_MP_TX_SYSCTRL_POWXFER_LDSTP_TC2b_Power_Control": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_6_MP_TX_SYSCTRL_POWXFER_LDSTP_TC2b_Power_Control",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_6_2_7_Guaranteed_Load_Power_23a": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_7_Guaranteed_Load_Power_23a",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_6_2_8_Guaranteed_Load_Power_23b": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_8_Guaranteed_Load_Power_23b",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1B"
+        ]
+    },
+    "TPR_TD_6_2_9_Guaranteed_Load_Power_23c": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_9_Guaranteed_Load_Power_23c",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1C"
+        ]
+    },
+    "TPR_TD_6_2_11_Guaranteed_Load_Power_23d_2": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_11_Guaranteed_Load_Power_23d_2",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1D"
+        ]
+    },
+    "TPR_TD_6_2_12_Guaranteed_Load_Power_23e": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_12_Guaranteed_Load_Power_23e",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1E"
+        ]
+    },
+    "TPR_TD_6_2_13_Guaranteed_Load_Power_23f": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_13_Guaranteed_Load_Power_23f",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_6"
+        ]
+    },
+    "TPR_TD_6_2_14_MP_TX_PERF_POWGUARANT_8W_TC1": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_14_MP_TX_PERF_POWGUARANT_8W_TC1",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_MP1A"
+        ]
+    },
+    "TPR_TD_6_2_15_MP_TX_PERF_POWGUARANT_15W_TC1": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_15_MP_TX_PERF_POWGUARANT_15W_TC1",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_6_2_16_MP_TX_PERF_POWGUARANT_12W_TC1": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_16_MP_TX_PERF_POWGUARANT_12W_TC1",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_MP1C"
+        ]
+    },
+    "TPR_TD_6_2_17_MP_TX_PERF_POWGUARANT_15W_TC2": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_17_MP_TX_PERF_POWGUARANT_15W_TC2",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_MP3"
+        ]
+    },
+    "TPR_TD_6_2_19_PTX_POW_OVP_BPP_Maximum_Power": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_19_PTX_POW_OVP_BPP_Maximum_Power",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1E"
+        ]
+    },
+    "TPR_TD_6_2_20_PTX_POW_OVP_EPP_Maximum_Power": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_20_PTX_POW_OVP_EPP_Maximum_Power",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_6_2_21_PTX_POW_OVP_BPP_2_OverVoltage_Protection": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_21_PTX_POW_OVP_BPP_2_OverVoltage_Protection",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1E"
+        ]
+    },
+    "TPR_TD_6_2_22_PTX_POW_OVP_EPP_2_OverVoltage_Protection": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_22_PTX_POW_OVP_EPP_2_OverVoltage_Protection",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_MP1A"
+        ]
+    },
+    "TPR_TD_6_2_22_PTX_POW_OVP_EPP_3_OverVoltage_Protection": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_22_PTX_POW_OVP_EPP_3_OverVoltage_Protection",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_MP1A"
+        ]
+    },
+    "TPR_TD_6_2_23_TEST_PTX_PDX_BPX_MAX_001": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_23_TEST_PTX_PDX_BPX_MAX_001",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_1B"
+        ]
+    },
+    "TPR_TD_6_2_25_TEST_PTX_PDX_EPP_MAX_001": {
+        "TC_id": "TD_6_2",
+        "Testcase_Name": "TD_6_2_25_TEST_PTX_PDX_EPP_MAX_001",
+        "TC_Chapter": "Connected Load tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_7_1_1_Load_Modulation": {
+        "TC_id": "TD_7_1",
+        "Testcase_Name": "TD_7_1_1_Load_Modulation",
+        "TC_Chapter": "Load modulation tests",
+        "Pos_applicable": [
+            "TPR_3"
+        ]
+    },
+    "TPR_TD_7_2_1_MP_TX_COM_MOD_TC1_Frequency_Modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_1_MP_TX_COM_MOD_TC1_Frequency_Modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_7_2_1_MP_TX_COM_MOD_TC1b_Frequency_Modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_1_MP_TX_COM_MOD_TC1b_Frequency_Modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_7_2_1_MP_TX_COM_MOD_TC1d_Frequency_Modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_1_MP_TX_COM_MOD_TC1d_Frequency_Modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_7_2_1_MP_TX_COM_MOD_TC1f_Frequency_Modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_1_MP_TX_COM_MOD_TC1f_Frequency_Modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_7_2_2_MP_TX_COM_MOD_TC1a_Frequency_Modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_2_MP_TX_COM_MOD_TC1a_Frequency_Modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_7_2_2_MP_TX_COM_MOD_TC1c_Frequency_Modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_2_MP_TX_COM_MOD_TC1c_Frequency_Modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_7_2_2_MP_TX_COM_MOD_TC1e_Frequency_Modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_2_MP_TX_COM_MOD_TC1e_Frequency_Modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_7_2_2_MP_TX_COM_MOD_TC1g_Frequency_Modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_2_MP_TX_COM_MOD_TC1g_Frequency_Modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_7_2_3_MP_TX_COM_MOD_TC2_Frequency_Modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_3_MP_TX_COM_MOD_TC2_Frequency_Modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_7_2_4_MP_TX_COM_MOD_TC2a_Frequency_Modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_4_MP_TX_COM_MOD_TC2a_Frequency_Modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_7_2_5_MP_TX_COM_MOD_TC3_frequency_modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_5_MP_TX_COM_MOD_TC3_frequency_modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_7_2_5_MP_TX_COM_MOD_TC3a_frequency_modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_5_MP_TX_COM_MOD_TC3a_frequency_modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_7_2_5_MP_TX_COM_MOD_TC3b_frequency_modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_5_MP_TX_COM_MOD_TC3b_frequency_modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_7_2_5_MP_TX_COM_MOD_TC3c_frequency_modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_5_MP_TX_COM_MOD_TC3c_frequency_modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_7_2_6_MP_TX_COM_MOD_TC4_frequency_modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_6_MP_TX_COM_MOD_TC4_frequency_modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_7_2_6_MP_TX_COM_MOD_TC4a_frequency_modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_6_MP_TX_COM_MOD_TC4a_frequency_modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_7_2_6_MP_TX_COM_MOD_TC4b_frequency_modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_6_MP_TX_COM_MOD_TC4b_frequency_modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_7_2_6_MP_TX_COM_MOD_TC4c_frequency_modulation": {
+        "TC_id": "TD_7_2",
+        "Testcase_Name": "TD_7_2_6_MP_TX_COM_MOD_TC4c_frequency_modulation",
+        "TC_Chapter": "Frequency-shift keying tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_001": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_001",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_002": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_002",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_003": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_003",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_004": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_004",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_005": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_005",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_006": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_006",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_007": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_007",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_008": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_008",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_009": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_009",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_010": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_010",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_011": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_011",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_012": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_012",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_013": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_013",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_301": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_301",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_302": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_1_TEST_PTX_CPX_PNG_S01_EPT_302",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_001": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_001",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_002": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_002",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_003": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_003",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_004": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_004",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_005": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_005",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_006": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_006",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_007": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_007",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_008": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_008",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_009": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_009",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_010": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_010",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_011": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_011",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_012": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_012",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_013": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_013",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_014": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_014",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_015": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_015",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_016": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_016",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_017": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_017",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_018": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_018",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_019": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_019",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_020": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_020",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_021": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_021",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_022": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_022",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_023": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_023",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_024": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_024",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_025": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_025",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_026": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_026",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_027": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_027",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_028": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_028",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_029": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_029",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_030": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_030",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_031": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_031",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_032": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_032",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_033": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_033",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_034": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_034",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_035": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_035",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_036": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_036",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_037": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_037",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_038": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_038",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_039": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_039",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_040": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_040",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_041": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_041",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_042": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_042",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_043": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_043",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_044": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_044",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_045": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_045",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_046": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_046",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_047": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_2_TEST_PTX_CPX_PNG_S01_ILL_047",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_3_TEST_PTX_CPX_PNG_S01_SIG_001": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_3_TEST_PTX_CPX_PNG_S01_SIG_001",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_4_TEST_PTX_CPX_PNG_S01_TIM_001": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_4_TEST_PTX_CPX_PNG_S01_TIM_001",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_5_TEST_PTX_CPX_PNG_S01_TIM_002": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_5_TEST_PTX_CPX_PNG_S01_TIM_002",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_6_TEST_PTX_CPX_PNG_SXF_RST_001": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_6_TEST_PTX_CPX_PNG_SXF_RST_001",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_6_TEST_PTX_CPX_PNG_SXF_RST_002": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_6_TEST_PTX_CPX_PNG_SXF_RST_002",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_1_6_TEST_PTX_CPX_PNG_SXF_RST_003": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_6_TEST_PTX_CPX_PNG_SXF_RST_003",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_1_6_TEST_PTX_CPX_PNG_SXF_RST_004": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_6_TEST_PTX_CPX_PNG_SXF_RST_004",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_1_6_TEST_PTX_CPX_PNG_SXF_RST_005": {
+        "TC_id": "TD_8_1",
+        "Testcase_Name": "TD_8_1_6_TEST_PTX_CPX_PNG_SXF_RST_005",
+        "TC_Chapter": "Ping phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_2_1_TEST_PTX_CPX_CFG_S02_IDX_002": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_1_TEST_PTX_CPX_CFG_S02_IDX_002",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_002": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_002",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_003": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_003",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_004": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_004",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_005": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_005",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_006": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_006",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_007": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_007",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_008": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_008",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_009": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_009",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_010": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_010",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_011": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_011",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_012": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_012",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_013": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_013",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_014": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_014",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_015": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_015",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_016": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_016",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_017": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_017",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_018": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_018",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_019": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_019",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_020": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_020",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_021": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_021",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_022": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_022",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_023": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_023",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_024": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_024",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_025": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_025",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_026": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_026",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_027": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_027",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_028": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_028",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_029": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_029",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_030": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_030",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_031": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_031",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_032": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_032",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_033": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_033",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_034": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_034",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_035": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_035",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_036": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_036",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_037": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_037",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_038": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_038",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_039": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_039",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_040": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_040",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_041": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_041",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_042": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_042",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_043": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_043",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_044": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_044",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_045": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_045",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_046": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_046",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_047": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_047",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_048": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_2_TEST_PTX_CPX_CFG_S02_ILL_048",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_3_TEST_PTX_CPX_CFG_S02_TIM_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_3_TEST_PTX_CPX_CFG_S02_TIM_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_4_TEST_PTX_CPX_CFG_S02_TIM_002": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_4_TEST_PTX_CPX_CFG_S02_TIM_002",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_002": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_002",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_003": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_003",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_004": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_004",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_005": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_005",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_006": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_006",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_007": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_007",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_008": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_008",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_009": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_009",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_010": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_5_TEST_PTX_CPX_CFG_S02_VMC_010",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_002": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_002",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_003": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_003",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_004": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_004",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_005": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_005",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_006": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_006",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_007": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_007",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_008": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_008",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_009": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_009",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_010": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_010",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_011": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_011",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_012": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_012",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_013": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_013",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_014": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_014",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_015": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_015",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_016": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_016",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_017": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_017",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_018": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_018",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_019": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_019",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_020": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_020",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_021": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_021",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_022": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_022",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_023": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_023",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_024": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_024",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_025": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_025",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_026": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_026",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_027": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_027",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_028": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_028",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_029": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_029",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_030": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_030",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_031": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_031",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_032": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_032",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_033": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_033",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_034": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_034",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_035": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_035",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_036": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_036",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_037": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_037",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_038": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_038",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_039": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_039",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_040": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_040",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_041": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_041",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_042": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_042",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_043": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_043",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_044": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_044",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_045": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_045",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_046": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_046",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_047": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_047",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_048": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_6_TEST_PTX_CPX_CFG_S03_ILL_048",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_7_TEST_PTX_CPX_CFG_S03_XID_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_7_TEST_PTX_CPX_CFG_S03_XID_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_002": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_002",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_003": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_003",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_004": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_004",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_005": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_005",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_006": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_006",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_007": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_007",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_008": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_008",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_009": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_009",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_010": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_010",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_011": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_011",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_012": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_012",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_013": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_013",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_014": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_014",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_015": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_015",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_016": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_016",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_017": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_017",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_018": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_018",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_019": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_019",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_020": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_020",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_021": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_021",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_022": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_022",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_023": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_023",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_024": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_024",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_025": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_025",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_026": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_026",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_027": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_027",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_028": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_028",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_029": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_029",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_030": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_8_TEST_PTX_CPX_CFG_S04_ILL_030",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_9_TEST_PTX_CPX_CFG_S04_OPT_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_9_TEST_PTX_CPX_CFG_S04_OPT_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_10_TEST_PTX_CPX_CFG_S04_PCH_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_10_TEST_PTX_CPX_CFG_S04_PCH_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_11_TEST_PTX_CPX_CFG_S04_PCH_002": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_11_TEST_PTX_CPX_CFG_S04_PCH_002",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_12_TEST_PTX_CPX_CFG_S04_RES_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_12_TEST_PTX_CPX_CFG_S04_RES_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_13_TEST_PTX_CPX_CFG_S05_BPX_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_13_TEST_PTX_CPX_CFG_S05_BPX_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_15_TEST_PTX_CPX_CFG_S05_CNT_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_15_TEST_PTX_CPX_CFG_S05_CNT_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_16_TEST_PTX_CPX_CFG_S05_CNT_002": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_16_TEST_PTX_CPX_CFG_S05_CNT_002",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_002": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_002",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_003": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_003",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_004": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_004",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_005": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_005",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_006": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_006",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_007": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_007",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_008": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_008",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_009": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_009",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_010": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_010",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_011": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_011",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_012": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_012",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_013": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_013",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_014": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_014",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_015": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_17_TEST_PTX_CPX_CFG_S05_ILL_015",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_2_19_TEST_PTX_CPX_CFG_S06_EPX_001": {
+        "TC_id": "TD_8_2",
+        "Testcase_Name": "TD_8_2_19_TEST_PTX_CPX_CFG_S06_EPX_001",
+        "TC_Chapter": "Configuration phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_1_TEST_PTX_CPX_NEG_S07_ABT_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_1_TEST_PTX_CPX_NEG_S07_ABT_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_2_TEST_PTX_CPX_NEG_S07_ABT_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_2_TEST_PTX_CPX_NEG_S07_ABT_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_005": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_005",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_006": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_006",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_007": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_007",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_008": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_008",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_009": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_009",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_010": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_010",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_011": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_011",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_012": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_012",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_013": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_013",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_014": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_014",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_015": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_3_TEST_PTX_CPX_NEG_S07_EPT_015",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_4_TEST_PTX_CPX_NEG_S07_FOD_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_4_TEST_PTX_CPX_NEG_S07_FOD_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_005": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_005",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_006": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_006",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_007": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_007",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_008": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_008",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_009": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_009",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_010": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_010",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_011": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_011",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_012": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_012",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_013": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_013",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_014": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_014",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_015": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_015",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_016": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_016",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_017": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_017",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_018": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_018",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_019": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_019",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_020": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_020",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_021": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_021",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_022": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_022",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_023": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_5_TEST_PTX_CPX_NEG_S07_ILL_023",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_6_TEST_PTX_CPX_NEG_S07_RES_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_6_TEST_PTX_CPX_NEG_S07_RES_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_6_TEST_PTX_CPX_NEG_S07_RES_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_6_TEST_PTX_CPX_NEG_S07_RES_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_6_TEST_PTX_CPX_NEG_S07_RES_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_6_TEST_PTX_CPX_NEG_S07_RES_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_6_TEST_PTX_CPX_NEG_S07_RES_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_6_TEST_PTX_CPX_NEG_S07_RES_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_7_TEST_PTX_CPX_NEG_S07_RES_005": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_7_TEST_PTX_CPX_NEG_S07_RES_005",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_7_TEST_PTX_CPX_NEG_S07_RES_006": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_7_TEST_PTX_CPX_NEG_S07_RES_006",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_7_TEST_PTX_CPX_NEG_S07_RES_007": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_7_TEST_PTX_CPX_NEG_S07_RES_007",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_7_TEST_PTX_CPX_NEG_S07_RES_008": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_7_TEST_PTX_CPX_NEG_S07_RES_008",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_7_TEST_PTX_CPX_NEG_S07_RES_009": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_7_TEST_PTX_CPX_NEG_S07_RES_009",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_8_TEST_PTX_CPX_NEG_S07_RPR_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_8_TEST_PTX_CPX_NEG_S07_RPR_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_005": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_005",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_006": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_006",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_007": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_007",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_008": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_008",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_009": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_009",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_010": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_010",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_011": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_011",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_012": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_012",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_013": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_013",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_014": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_014",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_015": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_015",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_016": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_016",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_017": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_017",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_018": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_018",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_019": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_019",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_020": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_020",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_021": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_021",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_022": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_022",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_023": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_023",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_024": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_024",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_025": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_025",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_026": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_026",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_027": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_027",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_028": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_028",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_029": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_029",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_030": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_030",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_031": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_031",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_032": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_032",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_033": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_033",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_034": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_034",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_035": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_035",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_036": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_036",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_037": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_037",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_038": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_038",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_039": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_039",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_040": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_040",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_041": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_041",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_042": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_042",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_043": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_043",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_044": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_044",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_045": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_045",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_046": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_9_TEST_PTX_CPX_NEG_S07_SQX_046",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_10_TEST_PTX_CPX_NEG_S07_TIM_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_10_TEST_PTX_CPX_NEG_S07_TIM_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_11_TEST_PTX_CPX_NEG_S07_TIM_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_11_TEST_PTX_CPX_NEG_S07_TIM_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_12_TEST_PTX_CPX_NEG_S07_TIM_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_12_TEST_PTX_CPX_NEG_S07_TIM_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_13_TEST_PTX_CPX_NEG_S07_WID_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_13_TEST_PTX_CPX_NEG_S07_WID_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_13_TEST_PTX_CPX_NEG_S07_WID_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_13_TEST_PTX_CPX_NEG_S07_WID_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_14_TEST_PTX_CPX_NEG_S07_WID_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_14_TEST_PTX_CPX_NEG_S07_WID_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_14_TEST_PTX_CPX_NEG_S07_WID_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_14_TEST_PTX_CPX_NEG_S07_WID_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_15_TEST_PTX_CPX_NEG_S08_FOD_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_15_TEST_PTX_CPX_NEG_S08_FOD_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_16_TEST_PTX_CPX_NEG_S08_FSK_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_16_TEST_PTX_CPX_NEG_S08_FSK_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_16_TEST_PTX_CPX_NEG_S08_FSK_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_16_TEST_PTX_CPX_NEG_S08_FSK_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_16_TEST_PTX_CPX_NEG_S08_FSK_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_16_TEST_PTX_CPX_NEG_S08_FSK_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_16_TEST_PTX_CPX_NEG_S08_FSK_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_16_TEST_PTX_CPX_NEG_S08_FSK_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_17_TEST_PTX_CPX_NEG_S08_GPX_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_17_TEST_PTX_CPX_NEG_S08_GPX_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_17_TEST_PTX_CPX_NEG_S08_GPX_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_17_TEST_PTX_CPX_NEG_S08_GPX_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_18_TEST_PTX_CPX_NEG_S08_GPX_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_18_TEST_PTX_CPX_NEG_S08_GPX_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_19_TEST_PTX_CPX_NEG_S08_GPX_005": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_19_TEST_PTX_CPX_NEG_S08_GPX_005",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_20_TEST_PTX_CPX_NEG_S08_RCS_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_20_TEST_PTX_CPX_NEG_S08_RCS_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_21_TEST_PTX_CPX_NEG_S08_REP_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_21_TEST_PTX_CPX_NEG_S08_REP_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_21_TEST_PTX_CPX_NEG_S08_REP_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_21_TEST_PTX_CPX_NEG_S08_REP_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_005": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_005",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_006": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_22_TEST_PTX_CPX_NEG_S08_RNP_006",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_23_TEST_PTX_CPX_NEG_S08_RPR_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_23_TEST_PTX_CPX_NEG_S08_RPR_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_24_TEST_PTX_CPX_NEG_S08_RPX_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_24_TEST_PTX_CPX_NEG_S08_RPX_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_25_TEST_PTX_CPX_NEG_S08_SRP_007": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_25_TEST_PTX_CPX_NEG_S08_SRP_007",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_26_TEST_PTX_CPX_NEG_S08_TIM_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_26_TEST_PTX_CPX_NEG_S08_TIM_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_27_TEST_PTX_CPX_NEG_S08_WID_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_27_TEST_PTX_CPX_NEG_S08_WID_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_27_TEST_PTX_CPX_NEG_S08_WID_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_27_TEST_PTX_CPX_NEG_S08_WID_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_27_TEST_PTX_CPX_NEG_S08_WID_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_27_TEST_PTX_CPX_NEG_S08_WID_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_27_TEST_PTX_CPX_NEG_S08_WID_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_27_TEST_PTX_CPX_NEG_S08_WID_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_28_TEST_PTX_CPX_NEG_S08_WID_005": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_28_TEST_PTX_CPX_NEG_S08_WID_005",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_28_TEST_PTX_CPX_NEG_S08_WID_006": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_28_TEST_PTX_CPX_NEG_S08_WID_006",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_29_TEST_PTX_CPX_NEG_S09_CAP_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_29_TEST_PTX_CPX_NEG_S09_CAP_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_005": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_005",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_006": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_006",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_007": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_007",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_008": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_008",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_009": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_009",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_010": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_30_TEST_PTX_CPX_NEG_S09_GRQ_010",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_31_TEST_PTX_CPX_NEG_S09_IDX_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_31_TEST_PTX_CPX_NEG_S09_IDX_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_32_PTX_CPX_NEG_S09_NFC_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_32_PTX_CPX_NEG_S09_NFC_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_33_PTX_CPX_NEG_S09_NFC_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_33_PTX_CPX_NEG_S09_NFC_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_34_PTX_CPX_NEG_S09_NFC_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_34_PTX_CPX_NEG_S09_NFC_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_34_PTX_CPX_NEG_S09_NFC_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_34_PTX_CPX_NEG_S09_NFC_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_34_PTX_CPX_NEG_S09_NFC_005": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_34_PTX_CPX_NEG_S09_NFC_005",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_34_PTX_CPX_NEG_S09_NFC_006": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_34_PTX_CPX_NEG_S09_NFC_006",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_35_PTX_CPX_NEG_S09_NFC_007": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_35_PTX_CPX_NEG_S09_NFC_007",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_35_PTX_CPX_NEG_S09_NFC_008": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_35_PTX_CPX_NEG_S09_NFC_008",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_35_PTX_CPX_NEG_S09_NFC_009": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_35_PTX_CPX_NEG_S09_NFC_009",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_35_PTX_CPX_NEG_S09_NFC_010": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_35_PTX_CPX_NEG_S09_NFC_010",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_36_PTX_CPX_NEG_S09_NFC_011": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_36_PTX_CPX_NEG_S09_NFC_011",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_37_PTX_CPX_NEG_S09_NFC_012": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_37_PTX_CPX_NEG_S09_NFC_012",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_38_TEST_PTX_CPX_NEG_S09_RES_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_38_TEST_PTX_CPX_NEG_S09_RES_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_39_TEST_PTX_CPX_NEG_S09_TIM_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_39_TEST_PTX_CPX_NEG_S09_TIM_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_40_TEST_PTX_CPX_NEG_S10_ACK_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_40_TEST_PTX_CPX_NEG_S10_ACK_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_41_TEST_PTX_CPX_NEG_S10_ACK_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_41_TEST_PTX_CPX_NEG_S10_ACK_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_42_TEST_PTX_CPX_NEG_S10_ACK_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_42_TEST_PTX_CPX_NEG_S10_ACK_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_43_TEST_PTX_CPX_NEG_S10_ACK_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_43_TEST_PTX_CPX_NEG_S10_ACK_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_44_TEST_PTX_CPX_NEG_S10_NAK_001": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_44_TEST_PTX_CPX_NEG_S10_NAK_001",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_45_TEST_PTX_CPX_NEG_S10_NAK_002": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_45_TEST_PTX_CPX_NEG_S10_NAK_002",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_46_TEST_PTX_CPX_NEG_S10_NAK_003": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_46_TEST_PTX_CPX_NEG_S10_NAK_003",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_47_TEST_PTX_CPX_NEG_S10_NAK_004": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_47_TEST_PTX_CPX_NEG_S10_NAK_004",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_3_48_TEST_PTX_CPX_NEG_S10_NAK_005": {
+        "TC_id": "TD_8_3",
+        "Testcase_Name": "TD_8_3_48_TEST_PTX_CPX_NEG_S10_NAK_005",
+        "TC_Chapter": "Negotiation phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_1_TEST_PTX_CPX_POW_S11_CEX_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_1_TEST_PTX_CPX_POW_S11_CEX_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_2_TEST_PTX_CPX_POW_S11_CEX_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_2_TEST_PTX_CPX_POW_S11_CEX_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_005": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_005",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_006": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_006",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_007": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_007",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_008": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_008",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_009": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_009",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_010": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_010",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_011": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_011",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_012": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_012",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_013": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_013",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_014": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_014",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_015": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_015",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_016": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_016",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_017": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_017",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_018": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_018",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_019": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_019",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_020": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_020",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_021": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_021",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_022": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_3_TEST_PTX_CPX_POW_S11_DTL_022",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_005": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_005",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_006": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_006",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_007": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_007",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_008": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_008",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_009": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_009",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_010": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_010",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_011": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_011",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_012": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_012",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_013": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_013",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_014": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_014",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_015": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_4_TEST_PTX_CPX_POW_S11_EPT_015",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_005": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_005",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_006": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_006",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_007": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_007",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_008": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_008",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_009": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_009",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_010": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_010",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_011": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_011",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_012": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_012",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_013": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_013",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_014": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_014",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_015": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_015",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_016": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_016",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_017": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_017",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_018": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_018",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_019": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_019",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_020": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_020",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_021": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_021",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_022": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_022",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_023": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_023",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_024": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_024",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_025": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_025",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_026": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_026",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_027": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_027",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_028": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_5_TEST_PTX_CPX_POW_S11_ILL_028",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_005": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_005",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_006": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_006",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_007": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_007",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_008": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_008",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_009": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_009",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_010": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_010",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_011": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_011",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_012": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_012",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_013": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_013",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_014": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_014",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_015": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_015",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_016": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_016",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_017": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_017",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_018": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_6_TEST_PTX_CPX_POW_S11_OPT_018",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_019": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_019",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_020": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_020",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_021": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_021",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_022": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_022",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_023": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_023",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_024": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_024",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_025": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_025",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_026": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_026",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_027": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_027",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_028": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_028",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_029": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_029",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_030": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_030",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_031": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_031",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_032": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_032",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_033": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_033",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_034": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_034",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_035": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_035",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_036": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_7_TEST_PTX_CPX_POW_S11_OPT_036",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_8_TEST_PTX_CPX_POW_S11_REP_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_8_TEST_PTX_CPX_POW_S11_REP_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_9_TEST_PTX_CPX_POW_S11_REP_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_9_TEST_PTX_CPX_POW_S11_REP_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_10_TEST_PTX_CPX_POW_S11_RP0_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_10_TEST_PTX_CPX_POW_S11_RP0_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_11_TEST_PTX_CPX_POW_S11_RP0_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_11_TEST_PTX_CPX_POW_S11_RP0_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_12_TEST_PTX_CPX_POW_S11_RP4_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_12_TEST_PTX_CPX_POW_S11_RP4_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_13_TEST_PTX_CPX_POW_S11_RP4_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_13_TEST_PTX_CPX_POW_S11_RP4_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_14_TEST_PTX_CPX_POW_S11_RP4_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_14_TEST_PTX_CPX_POW_S11_RP4_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_15_TEST_PTX_CPX_POW_S11_RP8_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_15_TEST_PTX_CPX_POW_S11_RP8_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_16_TEST_PTX_CPX_POW_S11_RP8_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_16_TEST_PTX_CPX_POW_S11_RP8_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_17_TEST_PTX_CPX_POW_S11_RP8_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_17_TEST_PTX_CPX_POW_S11_RP8_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_18_TEST_PTX_CPX_POW_S11_RP8_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_18_TEST_PTX_CPX_POW_S11_RP8_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_19_TEST_PTX_CPX_POW_S11_RST_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_19_TEST_PTX_CPX_POW_S11_RST_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_20_TEST_PTX_CPX_POW_S11_SRQ_036": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_20_TEST_PTX_CPX_POW_S11_SRQ_036",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_21_TEST_PTX_CPX_POW_S12_CTL_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_21_TEST_PTX_CPX_POW_S12_CTL_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_22_TEST_PTX_CPX_POW_S12_PCH_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_22_TEST_PTX_CPX_POW_S12_PCH_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_23_TEST_PTX_CPX_POW_S12_PCH_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_23_TEST_PTX_CPX_POW_S12_PCH_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_005": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_005",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_006": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_006",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_007": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_007",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_008": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_008",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_009": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_009",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_010": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_010",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_011": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_011",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_012": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_012",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_013": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_013",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_014": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_25_TEST_PTX_CPX_POW_S13_ADT_014",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_26_TEST_PTX_CPX_POW_S13_CAL_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_26_TEST_PTX_CPX_POW_S13_CAL_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_27_TEST_PTX_CPX_POW_S13_CAL_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_27_TEST_PTX_CPX_POW_S13_CAL_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_28_TEST_PTX_CPX_POW_S13_CAL_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_28_TEST_PTX_CPX_POW_S13_CAL_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_29_TEST_PTX_CPX_POW_S13_RP0_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_29_TEST_PTX_CPX_POW_S13_RP0_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_30_TEST_PTX_CPX_POW_S13_RP1_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_30_TEST_PTX_CPX_POW_S13_RP1_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_30_TEST_PTX_CPX_POW_S13_RP1_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_30_TEST_PTX_CPX_POW_S13_RP1_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_30_TEST_PTX_CPX_POW_S13_RP1_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_30_TEST_PTX_CPX_POW_S13_RP1_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_30_TEST_PTX_CPX_POW_S13_RP1_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_30_TEST_PTX_CPX_POW_S13_RP1_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_31_TEST_PTX_CPX_POW_S13_RP2_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_31_TEST_PTX_CPX_POW_S13_RP2_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_32_TEST_PTX_CPX_POW_S13_RPX_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_32_TEST_PTX_CPX_POW_S13_RPX_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_32_TEST_PTX_CPX_POW_S13_RPX_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_32_TEST_PTX_CPX_POW_S13_RPX_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_32_TEST_PTX_CPX_POW_S13_RPX_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_32_TEST_PTX_CPX_POW_S13_RPX_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_32_TEST_PTX_CPX_POW_S13_RPX_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_32_TEST_PTX_CPX_POW_S13_RPX_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_33_TEST_PTX_CPX_POW_S13_TIM_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_33_TEST_PTX_CPX_POW_S13_TIM_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_33_TEST_PTX_CPX_POW_S13_TIM_018": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_33_TEST_PTX_CPX_POW_S13_TIM_018",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_33_TEST_PTX_CPX_POW_S13_TIM_019": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_33_TEST_PTX_CPX_POW_S13_TIM_019",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_33_TEST_PTX_CPX_POW_S13_TIM_020": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_33_TEST_PTX_CPX_POW_S13_TIM_020",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_005": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_005",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_006": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_006",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_007": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_007",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_008": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_008",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_009": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_009",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_010": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_010",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_011": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_011",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_012": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_012",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_013": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_013",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_014": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_014",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_015": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_015",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_016": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_34_TEST_PTX_CPX_POW_S13_TIM_016",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_35_TEST_PTX_CPX_POW_S13_TIM_017": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_35_TEST_PTX_CPX_POW_S13_TIM_017",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_36_TEST_PTX_CPX_POW_S14_TIM_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_36_TEST_PTX_CPX_POW_S14_TIM_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_37_TEST_PTX_CPX_POW_S14_ACK_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_37_TEST_PTX_CPX_POW_S14_ACK_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_38_TEST_PTX_CPX_POW_S15_ADC_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_38_TEST_PTX_CPX_POW_S15_ADC_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_39_TEST_PTX_CPX_POW_S15_ADT_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_39_TEST_PTX_CPX_POW_S15_ADT_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_40_TEST_PTX_CPX_POW_S15_ADT_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_40_TEST_PTX_CPX_POW_S15_ADT_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_41_TEST_PTX_CPX_POW_S15_DSR_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_41_TEST_PTX_CPX_POW_S15_DSR_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_42_TEST_PTX_CPX_POW_S15_OXE_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_42_TEST_PTX_CPX_POW_S15_OXE_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_43_TEST_PTX_CPX_POW_S15_TIM_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_43_TEST_PTX_CPX_POW_S15_TIM_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_43_TEST_PTX_CPX_POW_S15_TIM_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_43_TEST_PTX_CPX_POW_S15_TIM_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_43_TEST_PTX_CPX_POW_S15_TIM_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_43_TEST_PTX_CPX_POW_S15_TIM_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_43_TEST_PTX_CPX_POW_S15_TIM_005": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_43_TEST_PTX_CPX_POW_S15_TIM_005",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_44_TEST_PTX_CPX_POW_S15_TIM_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_44_TEST_PTX_CPX_POW_S15_TIM_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_005": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_005",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_007": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_007",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_008": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_008",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_009": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_009",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_010": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_010",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_013": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_013",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_014": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_45_TEST_PTX_CPX_POW_SXF_EPT_014",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_46_TEST_PTX_CPX_POW_SXF_NR3_010": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_46_TEST_PTX_CPX_POW_SXF_NR3_010",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1A"
+        ]
+    },
+    "TPR_TD_8_4_47_TEST_PTX_CPX_RNG_S07_ABT_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_47_TEST_PTX_CPX_RNG_S07_ABT_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_47_TEST_PTX_CPX_RNG_S07_ABT_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_47_TEST_PTX_CPX_RNG_S07_ABT_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_47_TEST_PTX_CPX_RNG_S07_ABT_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_47_TEST_PTX_CPX_RNG_S07_ABT_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_48_TEST_PTX_CPX_RNG_S08_RPR_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_48_TEST_PTX_CPX_RNG_S08_RPR_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_001": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_001",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_002": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_002",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_003": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_003",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_004": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_004",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_005": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_005",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_006": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_006",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_007": {
+        "TC_id": "TD_8_4",
+        "Testcase_Name": "TD_8_4_49_TEST_PTX_CPX_RNG_S11_RNG_007",
+        "TC_Chapter": "Power transfer phase tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_2_1_TEST_PTX_APX_FLW_SFX_001": {
+        "TC_id": "TD_9_2",
+        "Testcase_Name": "TD_9_2_1_TEST_PTX_APX_FLW_SFX_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_2_1_TEST_PTX_APX_FLW_FWC_001": {
+        "TC_id": "TD_9_2",
+        "Testcase_Name": "TD_9_2_1_TEST_PTX_APX_FLW_FWC_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_2_1_TEST_PTX_APX_FLW_CFF_001": {
+        "TC_id": "TD_9_2",
+        "Testcase_Name": "TD_9_2_1_TEST_PTX_APX_FLW_CFF_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_2_2_TEST_PTX_APX_CHA_NDS_001": {
+        "TC_id": "TD_9_2",
+        "Testcase_Name": "TD_9_2_2_TEST_PTX_APX_CHA_NDS_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_3_1_TEST_PTX_APX_DIG_APV_001": {
+        "TC_id": "TD_9_3",
+        "Testcase_Name": "TD_9_3_1_TEST_PTX_APX_DIG_APV_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_3_2_TEST_PTX_APX_DIG_SRM_001": {
+        "TC_id": "TD_9_3",
+        "Testcase_Name": "TD_9_3_2_TEST_PTX_APX_DIG_SRM_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_3_3_TEST_PTX_APX_DIG_SRM_002": {
+        "TC_id": "TD_9_3",
+        "Testcase_Name": "TD_9_3_3_TEST_PTX_APX_DIG_SRM_002",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_3_4_TEST_PTX_APX_DIG_SRM_003": {
+        "TC_id": "TD_9_3",
+        "Testcase_Name": "TD_9_3_4_TEST_PTX_APX_DIG_SRM_003",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_3_5_TEST_PTX_APX_DIG_SRM_004": {
+        "TC_id": "TD_9_3",
+        "Testcase_Name": "TD_9_3_5_TEST_PTX_APX_DIG_SRM_004",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_3_6_TEST_PTX_APX_DIG_DRX_001": {
+        "TC_id": "TD_9_3",
+        "Testcase_Name": "TD_9_3_6_TEST_PTX_APX_DIG_DRX_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_4_1_PTX_APX_CRT_APV_001": {
+        "TC_id": "TD_9_4",
+        "Testcase_Name": "TD_9_4_1_PTX_APX_CRT_APV_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_4_2_PTX_APX_CRT_LEN_001": {
+        "TC_id": "TD_9_4",
+        "Testcase_Name": "TD_9_4_2_PTX_APX_CRT_LEN_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_4_2_PTX_APX_CRT_LEN_002": {
+        "TC_id": "TD_9_4",
+        "Testcase_Name": "TD_9_4_2_PTX_APX_CRT_LEN_002",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_4_2_PTX_APX_CRT_LEN_003": {
+        "TC_id": "TD_9_4",
+        "Testcase_Name": "TD_9_4_2_PTX_APX_CRT_LEN_003",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_4_3_PTX_APX_CRT_OFS_001": {
+        "TC_id": "TD_9_4",
+        "Testcase_Name": "TD_9_4_3_PTX_APX_CRT_OFS_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_5_1_PTX_APX_CRT_IRE_001": {
+        "TC_id": "TD_9_5",
+        "Testcase_Name": "TD_9_5_1_PTX_APX_CRT_IRE_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_5_2_PTX_APX_CRT_IRE_002": {
+        "TC_id": "TD_9_5",
+        "Testcase_Name": "TD_9_5_2_PTX_APX_CRT_IRE_002",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_5_2_PTX_APX_CRT_IRE_003": {
+        "TC_id": "TD_9_5",
+        "Testcase_Name": "TD_9_5_2_PTX_APX_CRT_IRE_003",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_5_3_PTX_APX_CRT_UPE_001": {
+        "TC_id": "TD_9_5",
+        "Testcase_Name": "TD_9_5_3_PTX_APX_CRT_UPE_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_5_3_PTX_APX_CRT_UPE_002": {
+        "TC_id": "TD_9_5",
+        "Testcase_Name": "TD_9_5_3_PTX_APX_CRT_UPE_002",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_5_3_PTX_APX_CRT_UPE_003": {
+        "TC_id": "TD_9_5",
+        "Testcase_Name": "TD_9_5_3_PTX_APX_CRT_UPE_003",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_6_1_PTX_APX_CONTENT_CHAIN": {
+        "TC_id": "TD_9_6",
+        "Testcase_Name": "TD_9_6_1_PTX_APX_CONTENT_CHAIN",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_6_2_PTX_APX_CONTENT_SIG": {
+        "TC_id": "TD_9_6",
+        "Testcase_Name": "TD_9_6_2_PTX_APX_CONTENT_SIG",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_6_3_PTX_APX_CONTENT_ATTR_001": {
+        "TC_id": "TD_9_6",
+        "Testcase_Name": "TD_9_6_3_PTX_APX_CONTENT_ATTR_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_6_4_PTX_APX_CONTENT_SERNUM": {
+        "TC_id": "TD_9_6",
+        "Testcase_Name": "TD_9_6_4_PTX_APX_CONTENT_SERNUM",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_6_5_PTX_APX_CONTENT_SUBJECT": {
+        "TC_id": "TD_9_6",
+        "Testcase_Name": "TD_9_6_5_PTX_APX_CONTENT_SUBJECT",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_6_6_PTX_APX_CONTENT_KEY": {
+        "TC_id": "TD_9_6",
+        "Testcase_Name": "TD_9_6_6_PTX_APX_CONTENT_KEY",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_6_7_PTX_APX_CONTENT_RSID": {
+        "TC_id": "TD_9_6",
+        "Testcase_Name": "TD_9_6_7_PTX_APX_CONTENT_RSID",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_6_8_PTX_APX_CONTENT_SUB_REG": {
+        "TC_id": "TD_9_6",
+        "Testcase_Name": "TD_9_6_8_PTX_APX_CONTENT_SUB_REG",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_6_9_PTX_APX_CRT_IRE_CHA_001": {
+        "TC_id": "TD_9_6",
+        "Testcase_Name": "TD_9_6_9_PTX_APX_CRT_IRE_CHA_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_6_9_PTX_APX_CRT_IRE_CHA_002": {
+        "TC_id": "TD_9_6",
+        "Testcase_Name": "TD_9_6_9_PTX_APX_CRT_IRE_CHA_002",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_7_1_PTX_APX_TIM_001": {
+        "TC_id": "TD_9_7",
+        "Testcase_Name": "TD_9_7_1_PTX_APX_TIM_001",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_7_2_PTX_APX_TIM_002": {
+        "TC_id": "TD_9_7",
+        "Testcase_Name": "TD_9_7_2_PTX_APX_TIM_002",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_9_7_3_PTX_APX_TIM_003": {
+        "TC_id": "TD_9_7",
+        "Testcase_Name": "TD_9_7_3_PTX_APX_TIM_003",
+        "TC_Chapter": "Authentication tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_10_1_1_MP_TX_FOD_BEFORE_POWER_FO_ABSCENT_TC1": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_1_MP_TX_FOD_BEFORE_POWER_FO_ABSCENT_TC1",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_10_1_2_MP_TX_FOD_BEFORE_POWER_FO_ABSCENT_TC1a": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_2_MP_TX_FOD_BEFORE_POWER_FO_ABSCENT_TC1a",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_10_1_3_MP_TX_FOD_BEFORE_POWER_FO_PRESENT_TC1": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_3_MP_TX_FOD_BEFORE_POWER_FO_PRESENT_TC1",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_10_1_4_MP_TX_FOD_BEFORE_POWER_FO_PRESENT_TC1a": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_4_MP_TX_FOD_BEFORE_POWER_FO_PRESENT_TC1a",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_10_1_5_MP_TX_FOD_BEFORE_POWER_FO_PRESENT_TC2": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_5_MP_TX_FOD_BEFORE_POWER_FO_PRESENT_TC2",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_10_1_6_MP_TX_FOD_BEFORE_POWER_FO_PRESENT_TC2a": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_6_MP_TX_FOD_BEFORE_POWER_FO_PRESENT_TC2a",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_10_1_7_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC1": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_7_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC1",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_1F"
+        ]
+    },
+    "TPR_TD_10_1_8_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC1a": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_8_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC1a",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_10_1_9_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC1b": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_9_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC1b",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_10_1_10_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC1c": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_10_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC1c",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP1B"
+        ]
+    },
+    "TPR_TD_10_1_11_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC2": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_11_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC2",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP4"
+        ]
+    },
+    "TPR_TD_10_1_12_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC2a": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_12_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC2a",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP4"
+        ]
+    },
+    "TPR_TD_10_1_13_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC2b": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_13_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC2b",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP4"
+        ]
+    },
+    "TPR_TD_10_1_14_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC2c": {
+        "TC_id": "TD_10_1",
+        "Testcase_Name": "TD_10_1_14_MP_TX_FOD_BEFORE_POWER_FO_CRITIC_TC2c",
+        "TC_Chapter": "Pre-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP4"
+        ]
+    },
+    "TPR_TD_10_2_1_Test_25": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_1_Test_25",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25a": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25a",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25a1": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25a1",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25a2": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25a2",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25b": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25b",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25b1": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25b1",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25b2": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25b2",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25c": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25c",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25c1": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25c1",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25c2": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25c2",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25d": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25d",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25d1": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25d1",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_2_Test_25d2": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_2_Test_25d2",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_5"
+        ]
+    },
+    "TPR_TD_10_2_3_MP_TX_PREF_FOD_MP_TC1": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_3_MP_TX_PREF_FOD_MP_TC1",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_7"
+        ]
+    },
+    "TPR_TD_10_2_3_MP_TX_PREF_FOD_MP_TC2": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_3_MP_TX_PREF_FOD_MP_TC2",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_7"
+        ]
+    },
+    "TPR_TD_10_2_3_MP_TX_PREF_FOD_MP_TC3": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_3_MP_TX_PREF_FOD_MP_TC3",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_7"
+        ]
+    },
+    "TPR_TD_10_2_3_MP_TX_PREF_FOD_MP_TC4": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_3_MP_TX_PREF_FOD_MP_TC4",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_7"
+        ]
+    },
+    "TPR_TD_10_2_3_MP_TX_PREF_FOD_MP_TC5": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_3_MP_TX_PREF_FOD_MP_TC5",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_7"
+        ]
+    },
+    "TPR_TD_10_2_3_MP_TX_PREF_FOD_MP_TC6": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_3_MP_TX_PREF_FOD_MP_TC6",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_7"
+        ]
+    },
+    "TPR_TD_10_2_4_MP_TX_PREF_FOD_MP_TC1a": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_4_MP_TX_PREF_FOD_MP_TC1a",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP3"
+        ]
+    },
+    "TPR_TD_10_2_4_MP_TX_PREF_FOD_MP_TC2a": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_4_MP_TX_PREF_FOD_MP_TC2a",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP3"
+        ]
+    },
+    "TPR_TD_10_2_4_MP_TX_PREF_FOD_MP_TC3a": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_4_MP_TX_PREF_FOD_MP_TC3a",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP3"
+        ]
+    },
+    "TPR_TD_10_2_4_MP_TX_PREF_FOD_MP_TC4a": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_4_MP_TX_PREF_FOD_MP_TC4a",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP3"
+        ]
+    },
+    "TPR_TD_10_2_4_MP_TX_PREF_FOD_MP_TC5a": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_4_MP_TX_PREF_FOD_MP_TC5a",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP3"
+        ]
+    },
+    "TPR_TD_10_2_4_MP_TX_PREF_FOD_MP_TC6a": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_4_MP_TX_PREF_FOD_MP_TC6a",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP3"
+        ]
+    },
+    "TPR_TD_10_2_5_MP_TX_FOD_CALIBRATE_FO_ABSENT_TC1": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_5_MP_TX_FOD_CALIBRATE_FO_ABSENT_TC1",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_7"
+        ]
+    },
+    "TPR_TD_10_2_5_MP_TX_FOD_CALIBRATE_FO_ABSENT_TC1a": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_5_MP_TX_FOD_CALIBRATE_FO_ABSENT_TC1a",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP3"
+        ]
+    },
+    "TPR_TD_10_2_6_MP_TX_FOD_OPERATE_FO_REACT_TC1": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_6_MP_TX_FOD_OPERATE_FO_REACT_TC1",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_7"
+        ]
+    },
+    "TPR_TD_10_2_7_MP_TX_FOD_OPERATE_FO_REACT_TC1a": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_7_MP_TX_FOD_OPERATE_FO_REACT_TC1a",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP3"
+        ]
+    },
+    "TPR_TD_10_2_8_MP_TX_FOD_OPERATE_FO_CRIT_TC1": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_8_MP_TX_FOD_OPERATE_FO_CRIT_TC1",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_7"
+        ]
+    },
+    "TPR_TD_10_2_9_MP_TX_FOD_OPERATE_FO_CRIT_TC1a": {
+        "TC_id": "TD_10_2",
+        "Testcase_Name": "TD_10_2_9_MP_TX_FOD_OPERATE_FO_CRIT_TC1a",
+        "TC_Chapter": "In-power transfer tests",
+        "Pos_applicable": [
+            "TPR_MP3"
+        ]
+    }
+}

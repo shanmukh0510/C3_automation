@@ -1,0 +1,147 @@
+<p>05/21/2024 03:52:01 AM: INFO: *************** TC-1 ***************</p>
+<p>05/21/2024 03:52:01 AM: INFO: Check the ReadMe File is present</p>
+<p>05/21/2024 03:52:01 AM: INFO: The ReadMe file was found in the directory at: C:\GRL\GRL-C3-MP-TPT\ReadMe.txt</p>
+<p>05/21/2024 03:52:01 AM: INFO: *************** TC-2 ***************</p>
+<p>05/21/2024 03:52:01 AM: INFO: Check the Release Notes File is present</p>
+<p>05/21/2024 03:52:01 AM: INFO: The Release Notes was found in the directory at: C:\GRL\GRL-C3-MP-TPT\GRL-C3-MP-TPT Release Notes.pdf</p>
+<p>05/21/2024 03:52:01 AM: INFO: *************** TC-3 ***************</p>
+<p>05/21/2024 03:52:01 AM: INFO: Check the Eload File is present</p>
+<p>05/21/2024 03:52:01 AM: INFO: PPS_ELOAD.bin was found in the directory at: C:\GRL\GRL-C3-MP-TPT\Firmware_Files\MPP\PPS_ELOAD.bin</p>
+<p>05/21/2024 03:52:02 AM: INFO: *************** TC-4 ***************</p>
+<p>05/21/2024 03:52:02 AM: INFO: Check all the Firmware Files are present</p>
+<p>05/21/2024 03:52:02 AM: INFO: The following files are missing:</p>
+<p>05/21/2024 03:52:02 AM: ERROR: BOOT.BIN</p>
+<p>05/21/2024 03:52:02 AM: ERROR: image.ub</p>
+<p>05/21/2024 03:52:02 AM: ERROR: start.sh</p>
+<p>05/21/2024 03:52:02 AM: ERROR: ShortFixture.bin</p>
+<p>05/21/2024 03:52:02 AM: INFO: *************** TC-5 ***************</p>
+<p>05/21/2024 03:52:02 AM: INFO: OpenBrowser</p>
+<p>05/21/2024 03:52:02 AM: INFO: The browser has been successfully opened, and the page has landed on the connection setup page.</p>
+<p>05/21/2024 03:52:02 AM: INFO: *************** TC-6 ***************</p>
+<p>05/21/2024 03:52:02 AM: INFO: Browser Tab Title</p>
+<p>05/21/2024 03:52:06 AM: INFO: The browser title in the UI tab is: GRL-C3-MP-TPT Software</p>
+<p>05/21/2024 03:52:12 AM: INFO: *************** TC-7 ***************</p>
+<p>05/21/2024 03:52:12 AM: INFO: Check that the Scan Network Button is present and whether it's clickable or not</p>
+<p>05/21/2024 03:52:12 AM: INFO: The Scan Network button is visible on the UI.</p>
+<p>05/21/2024 03:52:12 AM: INFO: The Scan Network button is clickable.</p>
+<p>05/21/2024 03:52:12 AM: INFO: *************** TC-8 ***************</p>
+<p>05/21/2024 03:52:12 AM: INFO: Check that after clicking the Scan network button, the loading icon is visible, and the connect button should be disabled, and vice versa</p>
+<p>05/21/2024 03:52:50 AM: INFO: Loading icon has disappeared</p>
+<p>05/21/2024 03:52:50 AM: INFO: *************** TC-9 ***************</p>
+<p>05/21/2024 03:52:50 AM: INFO: Please ensure that the device details keys are correctly present on the connection setup page</p>
+<p>05/21/2024 03:52:50 AM: INFO: Tester Status: Tester Status</p>
+<p>05/21/2024 03:52:51 AM: INFO: Serial Number: Serial Number</p>
+<p>05/21/2024 03:52:51 AM: INFO: Firmware Version: Firmware Version</p>
+<p>05/21/2024 03:52:51 AM: INFO: Next Calibration Date: Next Calibration Date</p>
+<p>05/21/2024 03:52:51 AM: INFO: Tester Ip Address: Tester IP Address</p>
+<p>05/21/2024 03:52:51 AM: INFO: Port: Port</p>
+<p>05/21/2024 03:52:51 AM: INFO: *************** TC-10 ***************</p>
+<p>05/21/2024 03:52:51 AM: INFO: Verify the address Text</p>
+<p>05/21/2024 03:52:54 AM: INFO: Desired text 'GRL-C3-MP-TPT IP Address:' is present.</p>
+<p>05/21/2024 03:52:54 AM: INFO: *************** TC-11 ***************</p>
+<p>05/21/2024 03:52:54 AM: INFO: Clicking the scan network, verify default IP is present in the TPT IP Address input box and connect</p>
+<p>05/21/2024 03:52:54 AM: INFO: Tester is not connected with Default IP so the test is get skipped</p>
+<p>05/21/2024 03:52:54 AM: INFO: *************** TC-12 ***************</p>
+<p>05/21/2024 03:52:54 AM: INFO: Verify Connection with Dynamic IP and Verify the Tester Status</p>
+<p>05/21/2024 03:53:14 AM: INFO: c3 is connected</p>
+<p>05/21/2024 03:53:14 AM: INFO: Sub_Test_Case: Verify the device detail once it connected to network</p>
+<p>05/21/2024 03:53:14 AM: INFO: values_list: ['Disconnected', 'NA', 'NA', 'NA', '192.168.255.1', 'NA']</p>
+<p>05/21/2024 03:53:14 AM: INFO: Checking the key pair value are present as per expected</p>
+<p>05/21/2024 03:53:14 AM: INFO: Tester Status: Not Equal</p>
+<p>05/21/2024 03:53:14 AM: ERROR: An unexpected error occurred: Tester Status is not equal: IP address "192.168.255.2" unreachable (List 1) != Disconnected (List 2)</p>
+<p>05/21/2024 03:53:15 AM: INFO: *************** TC-13 ***************</p>
+<p>05/21/2024 03:53:15 AM: INFO: Pass Invalid IP Address and Verify the Tester Status</p>
+<p>05/21/2024 03:53:18 AM: ERROR: InvalidIP failed with error: Message: element click intercepted: Element <input autocomplete="off" class="rc-select-search__field" value="192.168.255.1"> is not clickable at point (263, 205). Other element would receive the click: <div class="modal-backdrop"></div>
+  (Session info: chrome=125.0.6422.61)
+Stacktrace:
+	GetHandleVerifier [0x0070C283+48259]
+	(No symbol) [0x0069CBB1]
+	(No symbol) [0x00590A17]
+	(No symbol) [0x005D69EC]
+	(No symbol) [0x005D4E82]
+	(No symbol) [0x005D2CEB]
+	(No symbol) [0x005D22E7]
+	(No symbol) [0x005C7389]
+	(No symbol) [0x005F0D9C]
+	(No symbol) [0x005C6E25]
+	(No symbol) [0x005F1034]
+	(No symbol) [0x00609B9C]
+	(No symbol) [0x005F0B36]
+	(No symbol) [0x005C570D]
+	(No symbol) [0x005C62CD]
+	GetHandleVerifier [0x009C6713+2908435]
+	GetHandleVerifier [0x00A03D2B+3159851]
+	GetHandleVerifier [0x007A523B+674875]
+	GetHandleVerifier [0x007AB3FC+699900]
+	(No symbol) [0x006A63B4]
+	(No symbol) [0x006A2408]
+	(No symbol) [0x006A259C]
+	(No symbol) [0x00694D20]
+	BaseThreadInitThunk [0x7570FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77037CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77037C8E+238]
+</p>
+<p>05/21/2024 03:53:18 AM: INFO: *************** TC-14 ***************</p>
+<p>05/21/2024 03:53:18 AM: INFO: Pass Unreachable IP Address and Verify the Tester Status</p>
+<p>05/21/2024 03:53:19 AM: ERROR: UnreachableIP failed with error: Message: element click intercepted: Element <input autocomplete="off" class="rc-select-search__field" value="192.168.255.1"> is not clickable at point (263, 205). Other element would receive the click: <div class="modal-backdrop"></div>
+  (Session info: chrome=125.0.6422.61)
+Stacktrace:
+	GetHandleVerifier [0x0070C283+48259]
+	(No symbol) [0x0069CBB1]
+	(No symbol) [0x00590A17]
+	(No symbol) [0x005D69EC]
+	(No symbol) [0x005D4E82]
+	(No symbol) [0x005D2CEB]
+	(No symbol) [0x005D22E7]
+	(No symbol) [0x005C7389]
+	(No symbol) [0x005F0D9C]
+	(No symbol) [0x005C6E25]
+	(No symbol) [0x005F1034]
+	(No symbol) [0x00609B9C]
+	(No symbol) [0x005F0B36]
+	(No symbol) [0x005C570D]
+	(No symbol) [0x005C62CD]
+	GetHandleVerifier [0x009C6713+2908435]
+	GetHandleVerifier [0x00A03D2B+3159851]
+	GetHandleVerifier [0x007A523B+674875]
+	GetHandleVerifier [0x007AB3FC+699900]
+	(No symbol) [0x006A63B4]
+	(No symbol) [0x006A2408]
+	(No symbol) [0x006A259C]
+	(No symbol) [0x00694D20]
+	BaseThreadInitThunk [0x7570FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77037CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77037C8E+238]
+</p>
+<p>05/21/2024 03:53:19 AM: INFO: *************** TC-15 ***************</p>
+<p>05/21/2024 03:53:19 AM: INFO: Verify the Setup Diagram</p>
+<p>05/21/2024 03:53:21 AM: ERROR: An error occurred: Message: element click intercepted: Element <p class="connection-setup-image setup-image-width">...</p> is not clickable at point (380, 235). Other element would receive the click: <div class="modal-backdrop"></div>
+  (Session info: chrome=125.0.6422.61)
+Stacktrace:
+	GetHandleVerifier [0x0070C283+48259]
+	(No symbol) [0x0069CBB1]
+	(No symbol) [0x00590A17]
+	(No symbol) [0x005D69EC]
+	(No symbol) [0x005D4E82]
+	(No symbol) [0x005D2CEB]
+	(No symbol) [0x005D22E7]
+	(No symbol) [0x005C7389]
+	(No symbol) [0x005F0D9C]
+	(No symbol) [0x005C6E25]
+	(No symbol) [0x005F1034]
+	(No symbol) [0x00609B9C]
+	(No symbol) [0x005F0B36]
+	(No symbol) [0x005C570D]
+	(No symbol) [0x005C62CD]
+	GetHandleVerifier [0x009C6713+2908435]
+	GetHandleVerifier [0x00A03D2B+3159851]
+	GetHandleVerifier [0x007A523B+674875]
+	GetHandleVerifier [0x007AB3FC+699900]
+	(No symbol) [0x006A63B4]
+	(No symbol) [0x006A2408]
+	(No symbol) [0x006A259C]
+	(No symbol) [0x00694D20]
+	BaseThreadInitThunk [0x7570FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77037CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77037C8E+238]
+</p>

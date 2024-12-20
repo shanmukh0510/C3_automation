@@ -1,0 +1,32 @@
+{
+    "Connection": {
+        "TPR": {
+            "ServerIP": "localhost",
+            "TesterIP": "192.168.5.45",
+            "status": "IP address \"192.168.5.45\" unreachable",
+            "port": "2002",
+            "BoardNo": "NA",
+            "FWversion": "NA",
+            "SWVersion": "2.0.0.83",
+            "ReportPath": "C:\\GRL\\GRL-C3-MP-TPR\\Report\\OfflineReport\\PacketLog_Exerciser\\*",
+            "SignalFilePath": "C:\\GRL\\GRL-C3-MP-TPR\\SignalFiles",
+            "AppProperty": "C:\\GRL\\GRL-C3-MP-TPR\\AppData\\AppProperty.json"
+        },
+        "TPT": {
+            "ServerIP": "localhost",
+            "TesterIP": "192.168.5.40",
+            "status": "NA",
+            "port": "2004",
+            "BoardNo": "NA",
+            "FWversion": "NA",
+            "SWVersion": "NA",
+            "ReportPath": "C:\\GRL\\GRL-C3-MP-TPT\\Report\\OfflineReport\\PacketLog_Exerciser\\*",
+            "SignalFilePath": "C:\\GRL\\GRL-C3-MP-TPT\\SignalFiles",
+            "AppProperty": "C:\\GRL\\GRL-C3-MP-TPT\\AppData\\AppProperty.json"
+        }
+    },
+    "Mode": "TPR",
+    "Logs": [
+
+    ]
+}

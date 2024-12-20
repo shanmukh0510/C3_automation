@@ -1,0 +1,67 @@
+TITLE : "GRL-C3-MP-TPT Software"
+TITLE1 : "GRL-C3-MP-TPR Software"
+BPP: "GRL-C3-TPT Software"
+IP_Address_Title: "GRL-C3-MP-TPT IP Address:"
+IP_Address_Title1: "GRL-C3-MP-TPR IP Address:"
+Defaultip: "192.168.255.1"
+invalid: "1.1.1"
+unreach : "192.168.255.2"
+in_validlist : ['Invalid IP address format : 1.1.1', 'NA', 'NA', 'NA', '1.1.1', 'NA']
+un_reach: ['IP address "192.168.255.2" unreachable', 'NA', 'NA', 'NA', '192.168.255.2', 'NA']
+expected_tester_status: "Tester Status"
+expected_serial_number: "Serial Number"
+expected_firmware_version: "Firmware Version"
+expected_next_calibration_date: "Next Calibration Date"
+expected_tester_ip_address: "Tester IP Address"
+expected_port: "Port"
+cl_text: "Custom Location:"
+qs_text: "Quick Select:"
+execute: "Execute:"
+Repeat: "Repeat:"
+cnewproj: "Create New Project"
+Bsut: "PRx Self Declaration Form "
+Bsut1: "BSUT Self Declaration Form"
+Max_power: "Maximum power"
+K_Est_P1: " Ki_actual_P1 (0,0) "
+K_Est_P2: " Ki_actual_P2 (2,2) "
+Cloaking: "Cloaking"
+PRx_Detect_Ping: "PRx Detect Ping"
+Cloak_retrytext: "PRx Cloak Retry"
+PRx_init: "PRx Init"
+PRxGRS: "PRx GET Request Support"
+checkbox_PRxRequest: ["PLAP", "ID", "CHS", "EDS"]
+Cloak_Init_Reason: Cloak Init Reason
+Cloak_Init_checkbox: ["Generic", "Thermally Constrained", "Insufficient Power", "Coex Mitigation", "End of Charge"]
+Report_Generation: "Report Generation"
+Bustinfo: "PRx Information"
+Bustinfo1: "BSUT Information"
+Brand_Name: "Manufacturer/Brand Name"
+Product_Name: "Product Name"
+Model_Number: "Model Number"
+Qi-ID: "Qi-ID"
+serial: "Serial Number"
+TestLab_Info: "Test Lab Information"
+Lab_Name: "Lab Name"
+Lab_Location: "Lab Location"
+Lab_Manager: "Lab Manager"
+Test_Engineer: "Test Engineer"
+Notes_label: "Notes/Remarks"
+E-mail: "E-mail"
+Email_invalid: "Email is invalid"
+Phone_no: "Phone Number"
+Phoneno_invalid: "Phone Number should be from 10 to 15 digits"
+Test_Results: "Test Results"
+Test_Progress: "Test Progress:"
+Time_format: "Time[m:s:ms:�s]"
+RA_table_header: ['Test Lab', 'Test Execution', 'Report Remark', 'Test Tool Info', 'DUT Info', 'Testing Scopes', 'Digital Signature Info']
+expected_first: "Expand All"
+expected_last: "Final Report"
+titles1 : ['Download SVG', 'Download PNG', 'Download CSV']
+titles2: ['All', 'HTML', 'PDF', 'JSON']
+support: 'Granite River Labs Support Desk'
+email: 'Email Customer Support'
+debug: 'Download Debug Logs'
+IP_Address_Title_BPP: 'GRL-C3-TPT IP Address:'
+info: 'info@graniteriverlabs.com'
+tptfilter: ['Tester Messages', 'Qi Messages', 'ASK Messages - UUT', 'FSK Messages - Tester', 'Signal strength', 'End Power Transfer', 'Control Error', '8 bit Received Power', 'Charge Status', 'Power control hold off', 'General Request', 'Renegotiate', 'Proprietary(0x18)', 'Proprietary(0x19)', 'Specific Request', 'FOD Status', 'Proprietary(0x28)', 'Proprietary(0x29)', '24 bit Received Power', 'Proprietary(0x38)', 'Proprietary(0x48)', 'Configuration', 'WPID(0x54)', 'WPID(0x55)', 'Proprietary(0x58)', 'Proprietary(0x68)', 'Identification', 'Proprietary(0x78)', 'Extended Identification', 'Proprietary(0x84)', 'Proprietary(0x86)', 'Proprietary(0xA4)', 'Proprietary(0xC4)', 'Proprietary(0xE2)', 'DSR', 'ADT/1e', 'ADT/1o', 'ADC', 'ADT/2e', 'ADT/2o', '16 bit Received Power', 'Rectified Power', 'ADT/3e', 'ADT/3o', 'ADT/4e', 'ADT/4o', 'ADT/5e', 'ADT/5o', 'ADT/6e', 'ADT/6o', 'ADT/7e', 'ADT/7o', 'ADT/12e', 'ADT/12o', 'ADT/21e', 'ADT/21o', 'ADT/27e', 'ADT/27o', 'Reserved1A', 'Reserved1B', 'Reserved1C', 'Reserved1D', 'Reserved1E', 'Reserved1F', 'Reserved1', 'Reserved2', 'Reserved3', 'Reserved4', 'Reserved5', 'Reserved6', 'Reserved7', 'Reserved8', 'Reserved9', 'Reserved10', 'Reserved11', 'Reserved12', 'Reserved13', 'Reserved14', 'Reserved15', 'End Of Power', 'Power Role Swap', 'Extended Control Error', 'Get Request', 'Specific Request', 'Enabled Data Streams', 'Simultaneous Data Stream Response', 'Ping', 'Simultaneous Auxilory Data Control', 'Report', 'Report_', 'Power Loss Accounting', 'Power Loss Accounting Extended', 'Power Loss Accounting Parameters Extended', 'Power_Loss_Accounting_Parameters', 'MPP_Extended_Identification', 'Extended_Power_Receiver_Capabilities', 'SADT/1e', 'SADT/1o', 'SADT/2e', 'SADT/2o', 'SADT/3e', 'SADT/3o', 'SADT/4e', 'SADT/4o', 'SADT/5e', 'SADT/5o', 'SADT/6e', 'SADT/6o', 'Power Transmitter Data Not Available', 'Power Transmitter Identification', 'Power Transmitter Capability', 'PP TX', 'Tx Type', 'PP ID', 'PP SET', 'Charge stop', 'ACK', 'NAK', 'ND', 'MPP:ACK', 'APP', 'ATN', 'RePing Time', 'Power Transmitter Extended Capability', 'FSK Error', 'FSK Error 01', 'FSK Error 02', 'FSK Error 04', 'FSK Error 08', 'FSK Error 10', 'FSK Error 20', 'Regulation Control Status', 'Voltage Control Status', 'Inverter Voltage', 'Estimated-K', 'Pong', 'Extended_Power_Transmitter_Identification', 'Extended_Power_Transmitter_Extended_Capabilities', 'NONE']
+tprfilter: ['Tester Messages', 'Qi Messages', 'ASK Messages - Tester', 'FSK Messages - UUT', 'Signal strength', 'End Power Transfer', 'Control Error', '8 bit Received Power', 'Charge Status', 'Power control hold off', 'General Request', 'Renegotiate', 'Proprietary(0x18)', 'Proprietary(0x19)', 'Specific Request', 'FOD Status', 'Proprietary(0x28)', 'Proprietary(0x29)', '24 bit Received Power', 'Proprietary(0x38)', 'Proprietary(0x48)', 'Configuration', 'WPID(0x54)', 'WPID(0x55)', 'Proprietary(0x58)', 'Proprietary(0x68)', 'Identification', 'Proprietary(0x78)', 'Extended Identification', 'Proprietary(0x84)', 'Proprietary(0x86)', 'Proprietary(0xA4)', 'Proprietary(0xC4)', 'Proprietary(0xE2)', 'DSR', 'ADT/1e', 'ADT/1o', 'ADC', 'ADT/2e', 'ADT/2o', '16 bit Received Power', 'Rectified Power', 'ADT/3e', 'ADT/3o', 'ADT/4e', 'ADT/4o', 'ADT/5e', 'ADT/5o', 'ADT/6e', 'ADT/6o', 'ADT/7e', 'ADT/7o', 'ADT/12e', 'ADT/12o', 'ADT/21e', 'ADT/21o', 'ADT/27e', 'ADT/27o', 'Reserved1A', 'Reserved1B', 'Reserved1C', 'Reserved1D', 'Reserved1E', 'Reserved1F', 'Reserved1', 'Reserved2', 'Reserved3', 'Reserved4', 'Reserved5', 'Reserved6', 'Reserved7', 'Reserved8', 'Reserved9', 'Reserved10', 'Reserved11', 'Reserved12', 'Reserved13', 'Reserved14', 'Reserved15', 'End Of Power', 'Power Role Swap', 'Extended Control Error', 'Get Request', 'Specific Request', 'Enabled Data Streams', 'Simultaneous Data Stream Response', 'Ping', 'Simultaneous Auxilory Data Control', 'Report', 'Report_', 'Power Loss Accounting', 'Power Loss Accounting Extended', 'Power Loss Accounting Parameters Extended', 'Power_Loss_Accounting_Parameters', 'MPP_Extended_Identification', 'Extended_Power_Receiver_Capabilities', 'SADT/1e', 'SADT/1o', 'SADT/2e', 'SADT/2o', 'SADT/3e', 'SADT/3o', 'SADT/4e', 'SADT/4o', 'SADT/5e', 'SADT/5o', 'SADT/6e', 'SADT/6o', 'Power Transmitter Data Not Available', 'Power Transmitter Identification', 'Power Transmitter Capability', 'PP TX', 'Tx Type', 'PP ID', 'PP SET', 'Charge stop', 'ACK', 'NAK', 'ND', 'MPP:ACK', 'APP', 'ATN', 'RePing Time', 'Power Transmitter Extended Capability', 'FSK Error', 'FSK Error 01', 'FSK Error 02', 'FSK Error 04', 'FSK Error 08', 'FSK Error 10', 'FSK Error 20', 'Regulation Control Status', 'Voltage Control Status', 'Inverter Voltage', 'Estimated-K', 'Pong', 'Extended_Power_Transmitter_Identification', 'Extended_Power_Transmitter_Extended_Capabilities', 'NONE']
